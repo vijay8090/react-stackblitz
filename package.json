@@ -11,6 +11,7 @@
     "react-router-dom": "^5.3.0",
     "redux": "^4.1.1"
   },
+  "proxy":"node-pkbcgl--3001.local.webcontainer.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
